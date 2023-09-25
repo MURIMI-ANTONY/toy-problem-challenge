@@ -1,6 +1,6 @@
 
 TOY PROBLEMS PREREQUISITES 
-This repository contains three JavaScript code snippets that perform various tasks related to calculating fines for speeding, assigning grades based on student marks, and computing deductions from a gross salary.
+This repository contains three JavaScript code snippets that perform various tasks related to calculating fines for speeding, assigning grades based on student marks, and computing deductions from a gross salary.Each challenge folder contains an index.html file that will eventually prompt the user to input the necessary values. Henceforth, one has to initiate the index.html so as to the feed the program the users' values.
 
 Speed detector 
 Description 
